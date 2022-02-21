@@ -7,3 +7,6 @@ Nos consultants apportent Conseil et Expertise à nos clients, soutiennent l’�
 Notre agence de Lille, située à proximité des gares, regroupe plus de 200 consultants et un Centre de Services, et poursuit sa croissance y compris dans le contexte actuel.
 
 Bonne humeur, dynamisme, bienveillance, proximité, écoute, collaboration sont l’ADN de notre mode de fonctionnement !
+
+[Annonce 2](https://github.com/Hunswegle/recrutement_ets/blob/main/ANNONCE-2.md)
+
