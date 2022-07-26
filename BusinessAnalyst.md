@@ -1,7 +1,7 @@
 PROFIL RECHERCHE: 🐝 **BUSINESS ANALYST** 🐝
 ---
 
-*Contexte entreprise / Domaine:* Banque, finance, assurance
+<ins>*Contexte entreprise / Domaine:*</ins> Banque, finance, assurance
 
 
 **Rôle et Missions**
