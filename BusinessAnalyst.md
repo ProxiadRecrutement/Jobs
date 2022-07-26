@@ -3,6 +3,7 @@ PROFIL RECHERCHE: BUSINESS ANALYST
 *Contexte entreprise / Domaine:* Banque, finance, assurance
 
 **Rôle et Missions**
+-----------------------
 
 Dans le cadre de l’accompagnement de l’évolution du SI d’un de nos clients, vous contribuerez à la conception fonctionnelle et technique des évolutions. 
 
@@ -25,7 +26,7 @@ Vous avez une bonne connaissance de Java et PL/SQL.
 Vous possédez de bonnes qualités relationnelles, rigueur, un sens du service et un bon esprit d’équipe.
 
 
-Proxiad recrute et reconnaît tous les talents.
+>Proxiad recrute et reconnaît tous les talents.
 
 Comment postuler ?
 
