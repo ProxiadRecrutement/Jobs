@@ -1,6 +1,8 @@
-PROFIL RECHERCHE: BUSINESS ANALYST
+PROFIL RECHERCHE: 🐝 **BUSINESS ANALYST** 🐝
+---
 
 *Contexte entreprise / Domaine:* Banque, finance, assurance
+
 
 **Rôle et Missions**
 -----------------------
@@ -20,16 +22,15 @@ mesure de leur réception.
 - Assurer un reporting régulier
 
 **PARLONS DE VOUS …**
+-----
 
 De formation en informatique Bac +5, vous possédez une expérience d’au moins 3 ans sur un poste similaire. 
 Vous avez une bonne connaissance de Java et PL/SQL.
 Vous possédez de bonnes qualités relationnelles, rigueur, un sens du service et un bon esprit d’équipe.
 
+**Comment postuler ?**
+---
+Transmet nous ton CV à: recrutement.nord@proxiad.com
+
 
 >Proxiad recrute et reconnaît tous les talents.
-
-Comment postuler ?
-
-Envoye ton CV à: recrutement.nord@proxiad.com
-
-
