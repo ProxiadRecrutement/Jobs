@@ -18,6 +18,7 @@ STACK
         <td><img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" width="150" alt=""></td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" width="150" alt=""></td>
         <td><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="150" alt=""></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="150" alt=""></td>
     </tr>
 </table>
 
