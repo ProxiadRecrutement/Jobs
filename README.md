@@ -25,7 +25,7 @@ Alors, embarquons vers de nouveaux horizons ! 🚀
 * [TESTEUR/TESTEUSE](https://github.com/ProxiadRecrutement/Jobs/blob/main/TesteurLogiciel.md)
   * Testeur de logiciels/Testeuse de logiciels
 
-* [DEV FULLSTACK JAVA](https://github.com/ProxiadRecrutement/Jobs/blob/main/IngenieurQA.md)
+* [DEV FULLSTACK JAVA](https://github.com/ProxiadRecrutement/Jobs/blob/main/DevJavaFullStack.md)
   * Développeur fullStack Java
 
 * [INGENIEUR .NET](https://github.com/ProxiadRecrutement/Jobs/blob/main/IngenieurDotNet.md)

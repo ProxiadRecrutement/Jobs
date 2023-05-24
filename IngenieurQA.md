@@ -9,10 +9,10 @@ STACK
 
 <table>
     <tr>
-        <td><img src="/assets/images/Selenium.JPG" width="110" height="50" alt=""> </td>
-        <td><img src="/assets/images/Katalon.png" width="110" height="50" alt=""> </td>
-        <td><img src="/assets/images/TestLink.png" width="110" height="50" alt=""></td> 
-        <td><img src="/assets/images/JIRA.png" width="80" height="50" alt=""></td>
+        <td><img src="/assets/images/Selenium.JPG" width="150" alt=""> </td>
+        <td><img src="/assets/images/Katalon.png" width="150" alt=""> </td>
+        <td><img src="/assets/images/TestLink.png" width="150" alt=""></td> 
+        <td><img src="/assets/images/JIRA.png" width="150" alt=""></td>
     </tr>
 </table>
 
