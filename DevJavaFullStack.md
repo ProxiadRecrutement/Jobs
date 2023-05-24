@@ -44,11 +44,12 @@ Votre rôle consistera à la conception et au développement du projet en métho
 
 Vous possédez une expérience d’au moins 3 ans sur un poste similaire post-diplôme (bac+2 à bac+5) 
 et tout particulièrement java / spring. 
+
 Possibilité de monter en compétences sur ReactJS pour ceux qui le souhaitent.
 
 **Comment postuler ?**
 ---
-Transmet nous ton CV à: recrutement.nord@proxiad.com
+Transmet nous ton CV à : recrutement.nord@proxiad.com
 
 
 > Proxiad recrute et reconnaît tous les talents.

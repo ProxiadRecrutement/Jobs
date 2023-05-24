@@ -26,6 +26,7 @@ mesure de leur réception.
 
 De formation en informatique Bac +5, vous possédez une expérience d’au moins 3 ans sur un poste similaire. 
 Vous avez une bonne connaissance de Java et PL/SQL.
+
 Vous possédez de bonnes qualités relationnelles, rigueur, un sens du service et un bon esprit d’équipe.
 
 **Comment postuler ?**
