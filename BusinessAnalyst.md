@@ -33,4 +33,4 @@ Vous possédez de bonnes qualités relationnelles, rigueur, un sens du service e
 Transmet nous ton CV à: recrutement.nord@proxiad.com
 
 
->Proxiad recrute et reconnaît tous les talents.
+> Proxiad recrute et reconnaît tous les talents.

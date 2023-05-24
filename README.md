@@ -16,5 +16,12 @@ Alors, embarquons vers de nouveaux horizons ! 🚀
 
 
 
-[Annonce 2](https://github.com/Hunswegle/recrutement_ets/blob/main/ANNONCE-2.md)
+* [Annonce 2](https://github.com/Hunswegle/recrutement_ets/blob/main/ANNONCE-2.md)
+    * Annonce
+
+* [INGENIEUR QA](https://github.com/ProxiadRecrutement/Jobs/blob/main/IngenieurQA.md)
+  * Testeur fonctionnel
+
+* [DEV FULLSTACK JAVA](https://github.com/ProxiadRecrutement/Jobs/blob/main/IngenieurQA.md)
+  * Développeur **fullStack** Java
 
