@@ -19,18 +19,23 @@ Dans notre voyage autour du digital, vous trouverez à bord :
 Alors, embarquons vers de nouveaux horizons ! 🚀
 
 
-* [Annonce 2](https://github.com/Hunswegle/recrutement_ets/blob/main/ANNONCE-2.md)
-    * Annonce
-
 * [INGENIEUR QA](https://github.com/ProxiadRecrutement/Jobs/blob/main/IngenieurQA.md)
   * Testeur fonctionnel
 
-* [DEV FULLSTACK JAVA](https://github.com/ProxiadRecrutement/Jobs/blob/main/IngenieurQA.md)
-  * Développeur **fullStack** Java
+* [TESTEUR/TESTEUSE](https://github.com/ProxiadRecrutement/Jobs/blob/main/TesteurLogiciel.md)
+  * Testeur de logiciels/Testeuse de logiciels
 
-* [DEV .NET](https://github.com/ProxiadRecrutement/Jobs/blob/main/IngenieurDotNet.md)
+* [DEV FULLSTACK JAVA](https://github.com/ProxiadRecrutement/Jobs/blob/main/IngenieurQA.md)
+  * Développeur fullStack Java
+
+* [INGENIEUR .NET](https://github.com/ProxiadRecrutement/Jobs/blob/main/IngenieurDotNet.md)
   * Ingénieur d'études et développement .NET F/H
 
 * [DEV .NET](https://github.com/ProxiadRecrutement/Jobs/blob/main/DeveloppeurDotNet.md)
   * Développeur .NET
 
+* [DEV BI-ADOBE .NET](https://github.com/ProxiadRecrutement/Jobs/blob/main/ConcepteurBiAdobe.md)
+  * Concepteur Développeur BI-Adobe Campaign H/F (F/H)
+
+* [CONSULTANT DECISIONNEL](https://github.com/ProxiadRecrutement/Jobs/blob/main/ConsultantDecisionnelStambia.md)
+  * Consultant Décisionnel Stambia / ODI H/F

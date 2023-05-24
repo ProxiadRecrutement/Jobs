@@ -9,7 +9,7 @@ STACK
 
 <table>
     <tr>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="150" alt=""></td>
+        <td><img src="/assets/images/ASP_NET_CORE.png" width="150" alt=""></td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="150" alt=""></td>
         <td><img src="https://cdn.freebiesupply.com/logos/large/2x/angular-3-logo-svg-vector.svg" width="150" alt=""></td>
         <td><img src="https://www.fullstackpython.com/img/logos/vuejs-wide.png" width="150" alt=""></td>
@@ -37,6 +37,7 @@ L’environnement technique :
 * Git
 * Angular
 * ReactJS
+
 
 **Rôle et Missions**
 -----------------------
